@@ -1,0 +1,5 @@
+Create an employee class, 
+an employee number (type int) and  
+the employee’s compensation (in dollars; type float).  
+Member functions should allow the user to enter this data and display it. 
+Write a main() that allows the user to enter data for three employees and display it.
